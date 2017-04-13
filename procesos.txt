@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   reyna    8428     760 pty0     17:55:16 /usr/bin/ps
+   reyna     760   11312 pty0     16:13:47 /usr/bin/bash
+   reyna   11312       1 ?        16:13:47 /usr/bin/mintty
